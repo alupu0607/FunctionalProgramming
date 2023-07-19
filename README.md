@@ -1,5 +1,5 @@
 # ABOUT
-Functional Programming (Haskell) basics (recursion, lists, higher order functioons, folding, datatypes, typeclasses, maybe variables, QuickCheck, IO).\
+Functional Programming (Haskell) basics (recursion, lists, higher order functions, folding, datatypes, typeclasses, maybe variables, QuickCheck, IO).
 
 
 # HOW TO
