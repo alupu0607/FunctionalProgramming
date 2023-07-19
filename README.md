@@ -8,4 +8,4 @@ Functional Programming (Haskell) basics (recursion, lists, higher order function
   - **ghci** PF_final.hs
   - Everytime you modify the content of the file, type in the terminal: **:r**
   - Actually test the function, example:  showLast [1,3,2]
-  - Test operations on newly created datatypes, example: (==) Zero1 Zero1
+  - Test operations on constructors from newly created datatypes, example: (==) Zero1 Zero1
