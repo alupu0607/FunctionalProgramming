@@ -3,8 +3,8 @@ Functional Programming (Haskell) basics (recursion, lists, higher order functioo
 
 
 # HOW TO
-1. Set up the environment for Haskell
-2. Test the functions from any file. For example, for PF_final.hs:
+1. Set up the environment for Haskell\
+2. Test the functions from any file. For example, for PF_final.hs: \
 **ghci** PF_final.hs.\
 Everytime you modify the content of the file, type in the terminal: **:r**.\
 Actually test the function, example:  showLast [1,3,2] \
